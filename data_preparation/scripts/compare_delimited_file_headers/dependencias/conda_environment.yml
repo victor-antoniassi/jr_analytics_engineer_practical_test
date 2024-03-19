@@ -1,0 +1,8 @@
+name: compare_delimited_file_headers
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - conda-forge::pandas
+  - conda-forge::openpyxl
