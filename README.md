@@ -8,7 +8,7 @@ Este repositório contém a minha solução para o teste prático realizado dura
 
 Este é um desafio prático para o processo seletivo de Analytics Engineer Júnior em uma empresa de e-commerce. O cenário envolve o planejamento para o início do ano letivo escolar na cidade de São Paulo, com foco na venda de produtos do setor de materiais escolares. O objetivo do desafio é desenvolver um projeto simplificado de preparação de dados para entregar um banco de dados que será utilizado em análises e outros projetos durante o planejamento de vendas. Os dados devem ser disponibilizados em uma estrutura e qualidade semelhantes à camada Silver da Arquitetura Medallion. Os dados para o desafio incluem informações agregadas de estudantes e detalhes sobre as escolas. Importante: utilize apenas os dados de perfis de alunos e escolas da cidade de São Paulo referentes aos anos de 2021 e 2022.
 
-## Etapas da Preparação de Dados
+## Etapas da minha solução de Preparação de Dados
 
 1. Análise inicial da qualidade dos dados e das estruturas dos arquivos .csv utilizando o Python + Pandas e Google Sheets.
 2. Desenvolvimento de um [script](data_preparation/scripts/compare_delimited_file_headers) em Python para comparar os cabeçalhos dos arquivos (educandos e escolas) com cabeçalhos corretos baseados nos respectivos dicionários de dados.
